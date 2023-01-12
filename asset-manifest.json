@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tower-of-Hanoi/static/css/main.95a5fa53.css",
+    "main.js": "/Tower-of-Hanoi/static/js/main.574fb144.js",
+    "static/js/787.8b130ec0.chunk.js": "/Tower-of-Hanoi/static/js/787.8b130ec0.chunk.js",
+    "static/media/towerload.gif": "/Tower-of-Hanoi/static/media/towerload.2b10a451b31cd4103661.gif",
+    "static/media/hanoilogo.jpg": "/Tower-of-Hanoi/static/media/hanoilogo.6d2d6eee0b10f02daf60.jpg",
+    "index.html": "/Tower-of-Hanoi/index.html",
+    "main.95a5fa53.css.map": "/Tower-of-Hanoi/static/css/main.95a5fa53.css.map",
+    "main.574fb144.js.map": "/Tower-of-Hanoi/static/js/main.574fb144.js.map",
+    "787.8b130ec0.chunk.js.map": "/Tower-of-Hanoi/static/js/787.8b130ec0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95a5fa53.css",
+    "static/js/main.574fb144.js"
+  ]
+}
